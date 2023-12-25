@@ -7,6 +7,10 @@ mencakup beberapa jenis seperti labu hias, labu kuning, dan labu lainnya. Untuk 
 biji labu, diperlukan beberapa pengujian untuk klasifikasi dari biji labu tersebut untuk ditanam. Klasifikasi 
 ini menggunakan prediksi dan akurasi dari algoritma Decision Tree.
 
+**Dataset**
+
+Dataset yang digunakan adalah Pumpkin Seeds Dataset. dataset ini penulis ambil dari situs Kaggle.
+
 **Metode**
 
 
