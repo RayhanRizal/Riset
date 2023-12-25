@@ -8,12 +8,16 @@ biji labu, diperlukan beberapa pengujian untuk klasifikasi dari biji labu terseb
 ini menggunakan prediksi dan akurasi dari algoritma Decision Tree.
 
 **Metode**
+
+
 **Jenis Penelitian**
 Dalam penelitian ini jenis penilitian yang digunakan yaitu penelitian kuantitatif. Penelitian 
 kuantitatif ini merupakan pendekatan-pendekatan terhadap kajian empiris untuk mengumpulkan, 
 menganalisis, dan menampilkan data dalam bentuk numerik (angka) daripada naratif. Penelitian 
 ini biasanya dilakukan apabila hendak memperoleh hasil yang akurat karena mengandalkan 
 penghitungan. 
+
+
 **Teknik Pengumpulan Data**
 Studi Kepustakaan dilakukan dengan cara mempelajari teori-teori literatur dan buku-buku 
 yang berhubungan dengan aplikasi yang akan dibangun. Pengumpulan data dapat bersumber dari 
