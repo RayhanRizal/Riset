@@ -31,4 +31,6 @@ Studi Kepustakaan dilakukan dengan cara mempelajari teori-teori literatur dan bu
 yang berhubungan dengan aplikasi yang akan dibangun. Pengumpulan data dapat bersumber dari 
 jurnal, buku, maupun internet yang berisikan informasi, dan data berkaitan dengan penelitian. 
 
+**Pengujian Metriks**
+
 Pada source code terdapat pengujian metriks beserta hasil dari implementasi decision tree.
